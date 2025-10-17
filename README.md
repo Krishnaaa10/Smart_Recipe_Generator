@@ -1,7 +1,5 @@
 # 🧠 Smart Recipe Generator  
 ### *Discover your perfect meal in seconds!*
-
-![Smart Recipe Generator Banner](https://raw.githubusercontent.com/your-username/smart-recipe-generator/main/public/banner.png)  
 <img width="1900" height="1079" alt="image" src="https://github.com/user-attachments/assets/de19795d-8288-4bed-b16a-3137b4103ace" />
 
 
