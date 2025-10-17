@@ -123,16 +123,18 @@ To redeploy manually:
 vercel deploy
 
 
-👨‍💻 Developer
+```markdown
+## 👨‍💻 Developer
 
-Shrikrishna Patel
-Software Engineer | Frontend Developer | Tech Enthusiast
+**Shrikrishna Patel**
+*Software Engineer | Frontend Developer | Tech Enthusiast*
 
-📧 krishnaspattel@gmail.com
+📧 [krishnaspattel@gmail.com](mailto:krishnaspattel@gmail.com)
 
-💻 [https://github.com/Krishnaaa10](https://github.com/Krishnaaa10)
+💻 [GitHub](https://github.com/Krishnaaa10)
 
-🔗 [https://linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/shrikrishnapatel10/)
+🔗 [LinkedIn](https://www.linkedin.com/in/shrikrishnapatel10/)
+
+---
 
 ⭐ If you found this project inspiring, give it a star on GitHub! ⭐
-
