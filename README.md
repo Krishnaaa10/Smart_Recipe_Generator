@@ -122,7 +122,6 @@ The app is deployed on Vercel for seamless CI/CD and scalability.
 ## 👨‍💻 Developer
 
 Shrikrishna Patel
-Software Engineer | Frontend Developer | Tech Enthusiast
 
 📧 [krishnaspattel@gmail.com]
 
