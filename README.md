@@ -122,14 +122,15 @@ To redeploy manually:
 ```bash
 vercel deploy
 
+---
 
 ```markdown
 ## 👨‍💻 Developer
 
-**Shrikrishna Patel**
-*Software Engineer | Frontend Developer | Tech Enthusiast*
+Shrikrishna Patel
+Software Engineer | Frontend Developer | Tech Enthusiast
 
-📧 [krishnaspattel@gmail.com](mailto:krishnaspattel@gmail.com)
+📧 [krishnaspattel@gmail.com]
 
 💻 [GitHub](https://github.com/Krishnaaa10)
 
