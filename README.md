@@ -63,21 +63,22 @@ This project was developed as part of a **Software Engineering Technical Assessm
 
 ## 🧪 Project Structure  
 
+```
 smart-recipe-generator/
 │
-├── public/ # Static assets
+├── public/
 ├── src/
-│ ├── assets/ # Images / icons
-│ ├── App.jsx # Core React logic
-│ ├── main.jsx # Entry point
-│ ├── index.css # Global styles
+│   ├── assets/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
 │
 ├── package.json
 ├── vite.config.js
 ├── tailwind.config.js
 ├── README.md
 └── .gitignore
-
+```
 
 ---
 
@@ -88,59 +89,39 @@ The algorithm compares user-selected ingredients with each recipe’s list, comp
 
 ---
 
-## ⚡ How to Run Locally  
+## ⚡ How to Run Locally
 
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/your-username/smart-recipe-generator.git
-   cd smart-recipe-generator
+1.  **Clone the repository**
+    ```bash
+    git clone [https://github.com/your-username/smart-recipe-generator.git](https://github.com/your-username/smart-recipe-generator.git)
+    cd smart-recipe-generator
+    ```
 
+2.  **Install dependencies**
+    ```bash
+    npm install
+    ```
 
-Install dependencies
+3.  **Run the development server**
+    ```bash
+    npm run dev
+    ```
 
-npm install
+4.  **Open in browser**
+    `http://localhost:5173`
 
+---
 
-Run the development server
-
-npm run dev
-
-
-Open in browser
-
-http://localhost:5173
-
-🚀 Deployment
+## 🚀 Deployment
 
 The app is deployed on Vercel for seamless CI/CD and scalability.
-🔗 Live URL: https://smart-recipe-generator-lemon.vercel.app
+
+🔗 **Live URL:** [https://smart-recipe-generator-lemon.vercel.app](https://smart-recipe-generator-lemon.vercel.app)
 
 To redeploy manually:
-
+```bash
 vercel deploy
 
-📈 Evaluation Criteria Mapping
-Requirement	Implementation
-Ingredient Input	Text-based search with smart suggestions
-Recipe Matching	Ingredient overlap + ranking algorithm
-Filters	Difficulty, cook time, dietary preferences
-Nutrition Info	Displayed per recipe
-Ratings & Favorites	Built-in feedback system
-UI / UX	Gradient-rich, responsive design
-Hosting	Deployed on Vercel
-Database	Local JSON dataset (30 recipes)
-✍️ Author’s Approach (≈ 200 Words)
-
-The Smart Recipe Generator was built to simulate a real-world product challenge — blending design thinking, logic, and usability.
-I started by constructing a well-structured dataset of Indian recipes containing ingredients, steps, and nutritional data.
-An ingredient-based matching algorithm was implemented to compute recipe relevance, enabling quick discovery based on user input.
-
-I chose React + Vite for performance and TailwindCSS for rapid, responsive styling.
-Interactive features such as ratings, favorites, and serving adjustments personalize the user experience.
-To ensure accessibility and speed, the app was deployed on Vercel, providing automatic builds and a live URL.
-
-Given more time, the project will evolve with image-based ingredient recognition (AI/ML) and a Flask / Node backend for persistent user data.
-This project demonstrates my ability to translate business requirements into a polished, production-ready, and user-friendly application within tight timelines.
 
 👨‍💻 Developer
 
