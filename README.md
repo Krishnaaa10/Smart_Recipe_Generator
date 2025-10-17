@@ -119,18 +119,16 @@ The app is deployed on Vercel for seamless CI/CD and scalability.
 🔗 **Live URL:** [https://smart-recipe-generator-lemon.vercel.app](https://smart-recipe-generator-lemon.vercel.app)
 
 
-```markdown
 ## 👨‍💻 Developer
 
-**Shrikrishna Patel**
-*Software Engineer | Frontend Developer | Tech Enthusiast*
+Shrikrishna Patel
+Software Engineer | Frontend Developer | Tech Enthusiast
 
-📧 [krishnaspattel@gmail.com](mailto:krishnaspattel@gmail.com)
+📧 [krishnaspattel@gmail.com]
 
 💻 [GitHub](https://github.com/Krishnaaa10)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/shrikrishnapatel10/)
 
----
 
 ⭐ If you found this project inspiring, give it a star on GitHub! ⭐
